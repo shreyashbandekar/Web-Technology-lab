@@ -1,0 +1,27 @@
+.Bgimg{
+    width : 100%;
+    height: 1000px;
+    background-image: url('https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com'), url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtiSVN6_hATZ690_kvhkoc9MdNZaBD-BzbqDXExti8GPEAxrpwYgynLzg1rQdujmhiUt0&usqp=CAU');
+    background-repeat: no-repeat, repeat;
+    }
+a{
+    color : #54e826;
+    text-decoration:none;
+}
+a:visited{
+    background-color : #7a2cf0;
+}
+a:hover{
+    color : #ea2424;
+}
+a:active{
+    color:#000;
+}
+.hide {
+    visibility: hidden;
+  }
+  
+.myDIV:hover + .hide {
+    visibility: visible;
+    color: red;
+}
