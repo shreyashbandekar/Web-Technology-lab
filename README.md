@@ -12,3 +12,6 @@
 |8|Write an XHTML document which displays a form containing text elements to input register number, sub-code, marks in three tests and a button element. Also write Java script compute the average of two best tests on click of button and print average marks using alert. Validate all the fields using JavaScript.|
 |9|Develop an XHTML document and Java script to validate the following fields in a registration page:<br>i.	User ID (must be of length 5 to 12) <br>ii.	Name (only alphabets and the length should not be less than 15 characters)<br>iii.	Password (must be eight characters including one uppercase letter, one special character and alphanumeric characters)<br>iv.	E-mail (should not contain invalid addresses)|
 |10|a)	Write a PHP script to display today’s date in dd-mm-yyyy format. <br>b)	Write a PHP script to check whether the number is prime or not when user input a valid number from client side.|
+|11|Create HTML page that contain textbox, submit / reset button. Write PHP script to display this information and also store into a text file.|
+|12|Write a PHP script for login authentication. Design an HTML form which takes Username and Password from user and validate against stored Username and Password in a file.|
+|13|**Lab Test/Event**|
