@@ -20,7 +20,7 @@
     $username = $_POST['uname'];
     $password = $_POST['pass'];
 
-    /*Initially store some username and password by creating a file login.txt ex: Darshan,Darshan1234*/ 
+    /*Initially store some username and password by creating a file login.txt ex: Shreyash,Shreyash1234*/ 
     $file = 'login.txt';
     $users = file($file, FILE_IGNORE_NEW_LINES);
 
